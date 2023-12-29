@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans Unicode', sans-serif;
+  }
+
+p {
+    font-size: x-large;
+    padding: 50px;
+    margin: 10%;
+    font-family: cursive;
+    background-color: rgba(190, 190, 190, 0.902);
+}  
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .vidcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
